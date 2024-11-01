@@ -9,4 +9,5 @@
 3. 右上角打开 `开发者模式` 。
 4. 点击左上角 `加载已解压的扩展程序` 按钮，选择刚下载解压的插件文件夹，确定安装。
 5. 你可以在 `扩展程序` 中看到 `OAIFree Search` 说明安装成功。
+6. 跟 [OAIFree Search(Shared)](https://github.com/wozulong/oaifree-search-shared) 同时只能有一个生效。
 

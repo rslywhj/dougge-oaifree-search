@@ -3,7 +3,11 @@
 一个简单的 `Chrome` 插件，可以直接在地址栏使用 oaifree 搜索。
 
 ### 使用步骤：
-
+1. 前往 [Release](https://github.com/rslywhj/dougge-oaifree-search/releases/) 下载 `.crx`。
+2. 打开 `Chrome` ，地址栏输入： `chrome://extensions` 打开 `扩展程序` 设置页面。
+3. 将.crx拖入页面以安装扩展
+4. 你可以在 `扩展程序` 中看到 `OAIFree Search` 说明安装成功。
+***
 1. 前往 [Release](https://github.com/rslywhj/dougge-oaifree-search/releases/) 下载 `zip` / `tar.gz` 并解压缩。
 2. 打开 `Chrome` ，地址栏输入： `chrome://extensions` 打开 `扩展程序` 设置页面。
 3. 右上角打开 `开发者模式` 。
